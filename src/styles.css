@@ -100,5 +100,5 @@ body {
 }
 
 .img-card {
-  @apply object-cover w-full sm:w-56 sm:h-56;
+  @apply object-cover w-full sm:w-60 sm:h-60;
 }
