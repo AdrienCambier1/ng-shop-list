@@ -102,3 +102,7 @@ body {
 .img-card {
   @apply object-cover w-full sm:w-60 sm:h-60;
 }
+
+.section {
+  @apply my-8 flex flex-col items-center;
+}
